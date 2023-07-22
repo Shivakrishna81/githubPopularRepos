@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.listItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  background-color: #f8f8ff;
+  margin-right: 10px;
+  min-width: 200px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.head2 {
+  font-size: large;
+  color: #e73959;
+  font-weight: 600;
+}
+.img {
+  height: 80px;
+  width: 80px;
+}
+p {
+  font-size: medium;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+}

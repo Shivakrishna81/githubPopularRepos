@@ -1,0 +1,29 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 40px;
+}
+.head {
+  font-size: 35px;
+  font-family: 'lobster';
+  font-weight: 600;
+}
+.ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+}
+.ul2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 800px;
+  flex-wrap: wrap;
+}
